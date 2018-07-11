@@ -1,0 +1,1 @@
+<a href="https://wm-dev.atlassian.net/wiki/spaces/LAR/pages/3019850?preview=/3019850/7274497/typical_blocks.jpg">See screen</a>

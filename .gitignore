@@ -1,0 +1,11 @@
+/vendor/
+.env
+.idea
+/composer.lock
+/src/resources/assets/_gulp-builder/yarn-error.log
+/src/resources/assets/_gulp-builder/yarn.lock
+/src/resources/assets/_gulp-builder/bower_components/
+/src/resources/assets/_gulp-builder/node_modules/
+/src/resources/assets/_gulp-builder/.sass-cache/
+/report/
+bash.exe.stackdump

@@ -1,0 +1,29 @@
+{
+  "name": "Dashboard",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.3",
+    "magnificPopup": "git://github.com/dimsemenov/Magnific-Popup.git",
+    "meyer-reset": "*",
+    "owl.carousel": "^2.2.1",
+    "adminlte": "~2.3.2",
+    "normalize.css": "*",
+    "slick": "git://github.com/kenwheeler/slick.git",
+    "trumbowyg": "^1.1.7",
+    "daterangepicker": "^1.4.2",
+    "datetimepicker": "^2.5.3",
+    "switchery": "://github.com/abpetkov/switchery",
+    "jquery-ui": "^1.12.1",
+    "chart.js": "^2.7.1"
+  },
+  "moduleType": [
+    "node"
+  ]
+}
